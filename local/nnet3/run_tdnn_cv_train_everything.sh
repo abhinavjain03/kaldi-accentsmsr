@@ -1,0 +1,1 @@
+/home/abhinav/kaldi/accents_msr/local/nnet3/tuning/run_tdnn_d_cv_train_everything.sh
